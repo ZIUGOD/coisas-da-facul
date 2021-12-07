@@ -8,7 +8,7 @@ main()
 	
 	int num[6], i, totalPar=0, totalImpar=0;
 	
-	printf("==============================");
+	printf("==============================,");
 	for (i=0; i<6; i++)
 	{
 		printf("\n- Insira um %i° valor: ", i + 1);
